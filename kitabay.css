@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: borderbox;
+    padding: 0% ;
+    background-color: #f3f1ed;
+
+}
+.navbar{
+    background-color: #f3f1ed;
+    height: 60px;
+    display: flex;
+    width: 100%;
+   
+   
+
+}
+.nav_components{
+    height: 60px;
+    width:180px ;
+
+}
+.logo{
+    
+   
+    padding : 15px 30px;
+    height: 60px;
+    width: 180px;
+}
+.border{
+    border-bottom: 2px solid transparent;
+}
+.border:hover{
+    border-bottom: 2px solid black;
+}
+.token{
+    padding: 25px 15px 15px 0px ;
+    font-size: 16px;
+    font-family: recolenta;
+    color:black;
+
+}
+.nav_tokens{
+    display: flex;
+}
+.new{
+    padding: 25px 15px 15px 0px ;
+    font-size: 16px;
+    font-family: recolenta;
+    color:black;
+    display:flex;
+    flex-direction: column-reverse;
+
+
+}
+.link{
+    font-size:9px;
+    color:#cc6d17;
+    float: inline-end;
+}
+.nav_search{
+   display:flex;
+   align-self: center;
+    height: 25px;
+    width: 380px;
+    padding-top: 5px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border: none;
+}
+.searchicon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 1px;
+    height: 25px;
+    width :40px;
+    background-color: #cc6d17;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.user{
+    font-size: 1.2rem;
+    padding-left: 20px;
+    padding-top: 5px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.cart{
+    font-size: 1.2rem;
+    padding-left: 20px;
+    padding-top: 5px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.slider-wrapper{
+    position: relative;
+    min-width: 38rem;
+     padding-top: 10px;
+}
+.slider{
+    display: flex;
+    overflow-x:visible;
+    scroll-snap-type: mandatory;
+    height: 300px;
+    width: 800px;
+    object-position: cover;
+}
+.button{
+    padding-top: 30px;
+    display: flex;
+    background-color: #f3f1ed;
+   padding-right: 15px;
+}
+.but{
+    border-radius: 15px 15px 15px 15px;
+    height: 235px;
+    width: 235px;
+    margin: 10px;
+}
+.font{
+    display: flex;
+    font-size: 30px;
+    font-family: recolenta;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    font-weight: 300;
+}
+.f1{
+    display: flex;
+    font-size: 20px;
+    font-family: recolenta;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+
+}
+.book{
+    display: flex;
+    
+    padding-top: 10px;
+}
+#bk{
+    height: 445px;
+    width: 325x;
+    margin: 5px;
+
+}
+#bko
+{
+    height: 445px;
+    width: 325x;
+    margin: 1px; 
+}
+
+
+        
