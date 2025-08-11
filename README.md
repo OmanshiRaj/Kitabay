@@ -1,1 +1,1 @@
-This is a website interface dedicated for books created using HTML and CSS
+A clean, responsive, and intuitive book-selling website built using only HTML and CSS. Designed to showcase books gracefully, streamline browsing, and subtly guide users toward purchases—all without JavaScript.
